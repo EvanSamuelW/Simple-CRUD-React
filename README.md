@@ -1,4 +1,3 @@
-In the project directory, you can run:
 ## Installation
 
 ```bash
